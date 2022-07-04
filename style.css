@@ -19,7 +19,7 @@ body {
 }
 
 .search {
-    width: 369px;
+    width: 368px;
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
